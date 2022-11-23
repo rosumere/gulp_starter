@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rosumere/gulp_starter#readme",
   "dependencies": {},
   "devDependencies": {
-    "browser-sync": "^2.26.14",
+    "browser-sync": "^2.27.10",
     "del": "^6.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
